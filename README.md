@@ -8,4 +8,4 @@
 <br />
 <h4>The website makes drum sounds when notes are pressed or clicked!</h4>
 <img src="https://github.com/navsheelbiral/Drum-kit/blob/master/r-img/1.png" />
-<h3> The application is hosted at: https://navsheelbiral.github.io/Drum-kit/ </h3>
+<h3> The application is hosted <a href="https://navsheelbiral.github.io/Drum-kit/"> here. </a> </h3>
